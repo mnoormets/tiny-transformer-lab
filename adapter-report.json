@@ -1,0 +1,101 @@
+{
+  "scope": "Real low-rank CPU adaptation of our own tiny synthetic character model; not QLoRA or pretrained production LLM experience.",
+  "seed": 73,
+  "steps": 150,
+  "python": "3.12.14",
+  "torch": "2.14.1+cpu",
+  "device": "cpu",
+  "base_checkpoint_sha256": "4aa1ab04ea9bdf468a7df045dc6866a3b114d90676e8828a9f44014f68174834",
+  "adaptation_corpus_sha256": "6f321a8caeb473d2bc8ed8a1624891372fe0fad7977784445f30bf60bae7d127",
+  "split": "order IDs 0-179 train, 180-209 validation, 210-239 final test; shared sentence template",
+  "base_validation_loss": 1.7657799483748962,
+  "base_test_loss": 1.8009964825671978,
+  "base_original_domain_loss": 0.5736976367328209,
+  "methods": {
+    "lora": {
+      "trainable_parameters": 1536,
+      "total_parameters": 30242,
+      "validation_loss": 0.46623633473507325,
+      "test_loss": 0.5132181269230602,
+      "original_domain_loss": 1.399206499432628,
+      "seconds": 1.4451585999995586,
+      "base_weights_unchanged": true,
+      "adapter_roundtrip_exact": true,
+      "merge_max_logit_error": 4.76837158203125e-06,
+      "adapter_file_bytes": 9549,
+      "rank": 4,
+      "alpha": 8
+    },
+    "full": {
+      "trainable_parameters": 28706,
+      "total_parameters": 28706,
+      "validation_loss": 0.22059965825611036,
+      "test_loss": 0.27436559638063296,
+      "original_domain_loss": 2.4925226183231675,
+      "seconds": 1.6732100000008359
+    }
+  },
+  "curves": {
+    "lora": [
+      {
+        "step": 1,
+        "training_loss": 1.6797587871551514
+      },
+      {
+        "step": 25,
+        "training_loss": 1.1755845546722412
+      },
+      {
+        "step": 50,
+        "training_loss": 0.7204897999763489
+      },
+      {
+        "step": 75,
+        "training_loss": 0.5813536643981934
+      },
+      {
+        "step": 100,
+        "training_loss": 0.37544146180152893
+      },
+      {
+        "step": 125,
+        "training_loss": 0.40975284576416016
+      },
+      {
+        "step": 150,
+        "training_loss": 0.39138975739479065
+      }
+    ],
+    "full": [
+      {
+        "step": 1,
+        "training_loss": 1.6797587871551514
+      },
+      {
+        "step": 25,
+        "training_loss": 0.3101324439048767
+      },
+      {
+        "step": 50,
+        "training_loss": 0.20924457907676697
+      },
+      {
+        "step": 75,
+        "training_loss": 0.17569269239902496
+      },
+      {
+        "step": 100,
+        "training_loss": 0.11826300621032715
+      },
+      {
+        "step": 125,
+        "training_loss": 0.1558704823255539
+      },
+      {
+        "step": 150,
+        "training_loss": 0.15363933145999908
+      }
+    ]
+  },
+  "limitation": "Tiny model and repeated templates; no general language, instruction following, GPU memory or business impact claim."
+}

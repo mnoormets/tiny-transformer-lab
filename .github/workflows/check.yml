@@ -12,3 +12,10 @@ jobs:
       - run: pip install pytest
       - run: python -m pytest -q
       - run: python -m model.train --steps 10
+      - run: python -m model.adapt --steps 10
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cpu-training-smoke-reports
+          path: |
+            training-report.json
+            adapter-report.json

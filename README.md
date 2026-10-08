@@ -1,5 +1,7 @@
 # Tiny Transformer Lab
 
+[![Checks](https://github.com/mnoormets/tiny-transformer-lab/actions/workflows/check.yml/badge.svg)](https://github.com/mnoormets/tiny-transformer-lab/actions/workflows/check.yml)
+
 AI-assisted learning implementation of a small decoder-only Transformer in PyTorch.
 Manual multi-head causal attention, learned positional embeddings, pre-norm residual
 blocks, character-level next-token loss, AdamW, gradient clipping and CPU training.

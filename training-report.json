@@ -1,0 +1,58 @@
+{
+  "scope": "Tiny CPU learning experiment on authored synthetic text, not model fine-tuning or real-language quality.",
+  "seed": 42,
+  "steps": 150,
+  "python": "3.12.14",
+  "torch": "2.14.1+cpu",
+  "device": "cpu",
+  "threads": 2,
+  "config": {
+    "vocab_size": 34,
+    "context": 32,
+    "width": 32,
+    "heads": 4,
+    "layers": 2
+  },
+  "parameters": 28706,
+  "corpus_sha256": "ed51dedbe79b065fc2270deeac0c3f0b61a601336066cf82c94fbf7108605511",
+  "split_character": 10512,
+  "train_characters": 10512,
+  "validation_characters": 2628,
+  "unigram_validation_loss": 3.0917165279388428,
+  "initial_validation_loss": 3.7569903014139117,
+  "final_validation_loss": 0.5736976367328209,
+  "final_validation_perplexity": 1.774817563880777,
+  "training_seconds": 1.6435576999974728,
+  "training_curve": [
+    {
+      "step": 1,
+      "training_loss": 3.6895952224731445
+    },
+    {
+      "step": 25,
+      "training_loss": 2.4032235145568848
+    },
+    {
+      "step": 50,
+      "training_loss": 1.7725491523742676
+    },
+    {
+      "step": 75,
+      "training_loss": 1.267777919769287
+    },
+    {
+      "step": 100,
+      "training_loss": 0.9177327156066895
+    },
+    {
+      "step": 125,
+      "training_loss": 0.6816579699516296
+    },
+    {
+      "step": 150,
+      "training_loss": 0.4783961772918701
+    }
+  ],
+  "sample": "Tel.\nTellimus 0 on makstud. ja trontrdllimisus mus jaakstetrontitint.\nTelllimus Võrdlimu t. magust VõrdTeta mast makstaks",
+  "limitation": "Train and validation share synthetic templates; this does not demonstrate general language competence."
+}

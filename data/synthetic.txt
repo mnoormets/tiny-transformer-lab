@@ -1,0 +1,240 @@
+Tellimus 000 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 001 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 002 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 003 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 004 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 005 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 006 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 007 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 008 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 009 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 010 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 011 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 012 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 013 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 014 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 015 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 016 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 017 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 018 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 019 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 020 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 021 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 022 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 023 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 024 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 025 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 026 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 027 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 028 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 029 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 030 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 031 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 032 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 033 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 034 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 035 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 036 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 037 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 038 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 039 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 040 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 041 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 042 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 043 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 044 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 045 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 046 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 047 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 048 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 049 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 050 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 051 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 052 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 053 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 054 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 055 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 056 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 057 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 058 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 059 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 060 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 061 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 062 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 063 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 064 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 065 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 066 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 067 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 068 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 069 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 070 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 071 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 072 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 073 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 074 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 075 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 076 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 077 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 078 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 079 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 080 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 081 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 082 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 083 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 084 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 085 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 086 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 087 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 088 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 089 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 090 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 091 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 092 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 093 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 094 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 095 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 096 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 097 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 098 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 099 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 100 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 101 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 102 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 103 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 104 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 105 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 106 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 107 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 108 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 109 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 110 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 111 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 112 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 113 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 114 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 115 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 116 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 117 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 118 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 119 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 120 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 121 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 122 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 123 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 124 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 125 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 126 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 127 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 128 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 129 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 130 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 131 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 132 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 133 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 134 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 135 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 136 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 137 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 138 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 139 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 140 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 141 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 142 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 143 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 144 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 145 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 146 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 147 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 148 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 149 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 150 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 151 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 152 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 153 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 154 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 155 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 156 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 157 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 158 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 159 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 160 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 161 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 162 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 163 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 164 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 165 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 166 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 167 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 168 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 169 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 170 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 171 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 172 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 173 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 174 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 175 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 176 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 177 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 178 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 179 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 180 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 181 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 182 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 183 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 184 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 185 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 186 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 187 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 188 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 189 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 190 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 191 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 192 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 193 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 194 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 195 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 196 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 197 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 198 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 199 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 200 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 201 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 202 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 203 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 204 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 205 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 206 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 207 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 208 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 209 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 210 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 211 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 212 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 213 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 214 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 215 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 216 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 217 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 218 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 219 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 220 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 221 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 222 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 223 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 224 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 225 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 226 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 227 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 228 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 229 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 230 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 231 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 232 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 233 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 234 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 235 on tagastatud. Võrdle makset ja tagastust.
+Tellimus 236 on makstud. Kontrolli laoseisu ja saadetist.
+Tellimus 237 on ootel. Võrdle maksepakkuja kinnitust.
+Tellimus 238 on saadetud. Kontrolli jälgimiskoodi.
+Tellimus 239 on tagastatud. Võrdle makset ja tagastust.
